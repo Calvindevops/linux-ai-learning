@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Security — ABSOLUTE RULES
+- **NEVER delete, nuke, or remove projects, directories, or files** — always build on top, iterate, refactor.
+- **NEVER run `rm -rf`, `git clean -f`, or any destructive file operations** without Calvin's explicit per-instance approval
+
 ## Commands
 
 ```bash
